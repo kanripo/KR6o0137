@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 七佛讚唄伽他
+#+DATE: 2015-08-30 21:01:33.436202
+#+PROPERTY: JUAN 0
