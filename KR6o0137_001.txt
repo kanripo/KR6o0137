@@ -1,23 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:33.248086
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 七佛讚唄伽他
 #+PROPERTY: CBETA_ID T32n1682
 #+PROPERTY: ID KR6o0137
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1682
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0137_T_000-0769a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0137_T_001-0769a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1682¶
-
- 七佛讚唄伽他¶
+No. 1682¶
+七佛讚唄伽他¶
 ¶
-西天中印度摩伽陀國那爛陀寺¶
-傳教大師三藏賜紫沙門臣法天¶
-奉　詔譯¶
+西天中印度摩伽陀國那爛陀寺傳教大師三藏賜紫沙門臣法天奉　詔譯¶
 
 毘婆尸佛讚
 
@@ -99,7 +96,7 @@ No.1682¶
 「　過去七佛我讚竟
 　未來慈氏次稱揚¶
 　我所造福利無邊
-　願諸眾生皆解脫
+　願諸眾生皆解脫」
 #+END_VERSE
-」¶
+¶
 七佛梵讚一卷
